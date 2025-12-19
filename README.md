@@ -206,9 +206,9 @@ Aqui estão ambas as pinagens para HSPI e VSPI. Você precisa de ambos os módul
 ![DIYPCB](https://camo.githubusercontent.com/2bf35750381e5bc803e185b66d4dc729b62d218b1a9397267ad16f2e2564be1b/68747470733a2f2f64776477706c642e70616765732e6465762f4449595043422e6a7067)
 
 
-## Sobre o NWASKJAMR e meu código-fonte
-- **O meu NWASKJAMR realmente funciona?**  
-  Sim! Meu NWASKJAMR é totalmente funcional, e ninguém pausa o som no vídeo de demonstração. Muitas pessoas construíram seu próprio Jammr e confirmaram que funciona!
+## Sobre o NWASKJAMR
+- **O Jammr realmente funciona?**  
+  Sim! o Jammr é totalmente funcional, e ninguém pausa o som no vídeo de demonstração. Muitas pessoas construíram seu próprio Jammr e confirmaram que funciona!
 
 ## Apoie-me
 Via [este link](https://pixgg.com/nwask), você pode deixar uma donate para me manter motivado desenvolvendo projetos futuros! Obrigado pelo seu apoio :)
