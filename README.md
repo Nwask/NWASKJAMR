@@ -9,13 +9,9 @@
     <span> | </span>
   <a href="#pcb">Layout do hardware</a>
     <span> | </span>
-  <a href="#vídeos-e-demonstrações">Demos</a>
-    <span> | </span>
   <a href="#canais-de-operação">Canais</a>
     <span> | </span>
-  <a href="#gravando-o-firmware">Gravação</a>
-    <span> | </span>
-  <a href="#sobre-o-nwaskjamr">Sobre</a>
+  <a href="#gravando-o-firmware">Firmware</a>
     <span> | </span>
   <a href="#apoie-me">Apoie-me</a>
 </h4>
